@@ -1,4 +1,4 @@
-Sales_Ops360_Dashboard
+Sales_Ops360_Dashboard (Currently Deployed)
 
 📌 Overview
 
@@ -7,9 +7,9 @@ The dashboard is built to help businesses monitor and analyze sales trends, reve
 
 🔒 Data Security & Accessibility
 
-The dashboard is deployed and actively used by employees across 12 branches in India and the head office in Bangalore.
+## The dashboard is deployed and actively used by employees across 12 branches in India and the head office in Bangalore.
 
-NOTE - For security reasons, the dashboard link is not shared. However, a #screenshot with hidden sales and financial figures has been included in the repository.
+NOTE - For security reasons, the dashboard link is not shared. However, a ## screenshot with hidden sales and financial figures has been included in the repository.
 
 Row-Level Security (RLS) is implemented to prevent cross-branch data visibility.
 
